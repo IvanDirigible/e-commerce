@@ -58,7 +58,7 @@ This application is not deployed, so its functionality is not easily accessible 
 
 ## Links
 
-* GitHub: https://ivandirigible.github.io/e-commerce/
+* GitHub: https://github.com/IvanDirigible/e-commerce
 
 The following link demonstrates the E-Commerce Back End routes being tested with Insomnia:
 
